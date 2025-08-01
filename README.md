@@ -25,3 +25,12 @@ A simple web app built with **Streamlit** that cartoonifies real-world images in
 - OpenCV
 - NumPy
 ---
+## 🖼️ Screenshots
+
+### Original Image Upload
+![Original Image upload Screenshot](screenshots/upload.png)
+
+### Cartoon Image   
+![Original Image upload Screenshot](screenshots/cartoon.png)
+
+---
