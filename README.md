@@ -34,3 +34,8 @@ A simple web app built with **Streamlit** that cartoonifies real-world images in
 ![Original Image upload Screenshot](screenshots/cartoon.png)
 
 ---
+## 🎬 Demo Video
+
+📥 [Download Demo Video](videos/demo.mp4)
+
+---
